@@ -20,7 +20,7 @@ make sure cmd directory is current directory.
 for ex:
 > C:\Users\saisa\OneDrive\Desktop\ARCANA_HECKRS19-main\ARCANA_HECKRS19-main>
 6. run command
-> streamlit run Stock_Prediction.py
+> C:\Users\saisa\OneDrive\Desktop\ARCANA_HECKRS19-main\ARCANA_HECKRS19-main> streamlit run Stock_Prediction.py
 8. webapp will open in browser
 
 
