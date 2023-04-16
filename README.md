@@ -19,7 +19,7 @@ the files in folder are:
 make sure cmd directory is current directory.
 for ex:
 > C:\Users\saisa\OneDrive\Desktop\ARCANA_HECKRS19-main\ARCANA_HECKRS19-main>
-6. run command
+6. run command in cmd
 > streamlit run Stock_Prediction.py
 
 >> EX:
