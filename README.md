@@ -26,5 +26,9 @@ for ex:
 
 run after 16-04-23 02:23 PM to get a working model
 
+we have used yahoo finance dataset for training model.
+
+## the model training is shown in MODEL2.ipynb file.
+
 ## YT link: [link](https://www.youtube.com/watch?v=KEysc6UFXh4)
 ## DRIVE LINK CONTAINING LSTM MODEL AND VIDEO : [link](https://drive.google.com/drive/folders/1I55faOPrehzJ-H41wykgdY3fpnjhbuFp) 
