@@ -8,12 +8,12 @@
 4. open  "ARCANA_HECKRS19-main" folder
 
 the files in folder are:
-        LSTM3.h5
-        MODEL.ipynb
-        MODEL2.ipynb
-        README.md
-        requirements.txt
-        Stock_Prediction.py
+        >>LSTM3.h5
+        >>MODEL.ipynb
+        >>MODEL2.ipynb
+        >>README.md
+        >>requirements.txt
+        >>Stock_Prediction.py
 
 5. click right-click, select "open in terminal"
 make sure cmd directory is current directory.
