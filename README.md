@@ -25,3 +25,6 @@ for ex:
 
 
 run after 16-04-23 02:23 PM to get a working model
+
+## YT link: [link](https://www.youtube.com/watch?v=KEysc6UFXh4)
+## DRIVE LINK CONTAINING LSTM MODEL AND VIDEO : [link](https://drive.google.com/drive/folders/1I55faOPrehzJ-H41wykgdY3fpnjhbuFp) 
