@@ -125,7 +125,7 @@ for i in range(len(trash)):
     # Reshape the data
     x_test = np.reshape(x_test, (x_test.shape[0], x_test.shape[1], 1 ))
 
-    model=load_model('D:/ARCANE/LSTM2.h5')
+    model=load_model('https://github.com/harshavardhan379/ARCANA_HECKRS19/blob/main/LSTM2.h5')
 
 
     # Get the models predicted price values 
