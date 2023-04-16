@@ -22,3 +22,6 @@ for ex:
 6. run command
 > streamlit run Stock_Prediction.py
 8. webapp will open in browser
+
+
+run after 16-04-23 02:23 PM to get a working model
