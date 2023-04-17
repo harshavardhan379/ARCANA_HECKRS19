@@ -9,3 +9,6 @@ seaborn==0.11.2
 streamlit==1.21.0
 textblob==0.17.1
 yfinance==0.2.17
+tensorflow==2.9.1
+datetime
+time
